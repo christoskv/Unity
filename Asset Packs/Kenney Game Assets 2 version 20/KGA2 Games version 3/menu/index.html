@@ -1,0 +1,89 @@
+<head>
+	<style>
+		* {
+			-webkit-transition: all 0.3s ease;                  
+			-moz-transition: all 0.3s ease;                 
+			-o-transition: all 0.3s ease;   
+			-ms-transition: all 0.3s ease;          
+			transition: all 0.3s ease;
+		}
+	
+		body{
+			background-image:url('img/bg.png');
+			color:#A8C9EE;
+			font-size:12px;
+			font-family:Verdana;
+			margin-left:0px; margin-right:0px; margin-top:40px;
+			
+			-webkit-touch-callout: none;
+			-webkit-user-select: none;
+			-khtml-user-select: none;
+			-moz-user-select: none;
+			-ms-user-select: none;
+			user-select: none;
+			cursor:default;
+		}
+		
+		.game{
+			opacity:0.5;
+			cursor:hand;
+			border-radius:2px;
+			margin-left:6px; margin-right:6px;
+			-webkit-filter: grayscale(50%);
+		}
+		
+		.game:hover{
+			opacity:1.0;
+			-webkit-filter: grayscale(0%);
+		}
+		
+		a:link{
+			color:#1ABC9C;
+			border-bottom:#1ABC9C dotted 1px;
+			text-decoration:none;
+		}
+		
+		a:visited{
+			color:#1ABC9C;
+			border-bottom:#1ABC9C dotted 1px;
+			text-decoration:none;
+		}
+		
+		a:hover{
+			color:white;
+			border-bottom:white solid 1px;
+			text-decoration:none;
+		}
+		
+		.gameLink{
+			border:none !important;
+		}
+		
+		.footer{
+			text-align:center;
+			background-color:#171B20;
+			padding:20px;
+			bottom:0px;
+			position:fixed;
+			width:100%;
+		}
+	</style>
+</head>
+
+<body>
+	<center><img src='img/logo.png'/><br><br>
+	
+	<center>
+		<a class='gameLink' href='../games/Zombie Shooter/index.html'><img class='game' src='img/zombieShooter_thumb.png'/></a>
+		<a class='gameLink' href='../games/Multiplayer Platformer/index.html'><img class='game' src='img/multiplayerPlatformer_thumb.png'/></a>
+		<a class='gameLink' href='../games/Fish Game/index.html'><img class='game' src='img/fishGame_thumb.png'/></a>
+		<a class='gameLink' href='../games/Castle Siege/index.html'><img class='game' src='img/castleSiege_thumb.png'/></a>
+		<a class='gameLink' href='../games/Tower Defense/index.html'><img class='game' src='img/towerDefense_thumb.png'/></a>
+	</center>
+	
+	<br><br>
+	
+	<div class='footer'>
+		The <a href='https://www.scirra.com/' target='_blank'>Construct 2</a> source files of these games are included in <a href='https://kenney.itch.io/kenney-game-assets-2' target='_blank'>Kenney Game Assets 2</a>
+	</div>
+</body>

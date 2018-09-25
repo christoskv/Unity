@@ -1,0 +1,56 @@
+
+	### Version 10  ###
+
+	• Pirate Kit (added)
+	• Emotes Pack (added)
+
+	### Version 9  ###
+
+	• Ranks Pack (added)
+	• Particles Pack (added)
+
+	### Version 8  ###
+
+	• Crosshair Pack (added)
+	• Medieval RTS Pixel (added)
+
+	### Version 7  ###
+
+	### Version 6  ###
+
+	• Nature Kit (added)
+	• Mini Car Kit (updated)
+
+	### Version 5  ###
+
+	• Isometric Dungeon tiles (added)
+	• Isometric Farm tiles (added)
+	• Isometric Library tiles (added)
+	• Isometric Overworld tiles (added)
+	• Isometric Prototype tiles (added)
+
+	### Version 4  ###
+
+	• Animal Pack Redux (added)
+	• Letter Tiles Redux (added)
+
+	Total assets: 2.750
+
+	### Version 3  ###
+
+	• Furniture Kit (added)
+
+	### Version 2  ###
+
+	• Voiceover Pack Fighter (added)
+	• Top-down Tanks Redux (added)
+
+	### Version 1a ###
+
+	• Mini Car Kit (update, 5 new cars/6 new wheels)
+	• Castle Kit (update, fixed bridge model)
+	• Space Kit (update, fixed preview/sample images)
+
+	### Version 1  ###
+
+	• Initial release

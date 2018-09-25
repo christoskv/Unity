@@ -1,0 +1,16 @@
+{
+  "name": "Kenney Game Assets 2: Games",
+  "main": "./menu/index.html",
+  "window": {
+	"title": "Kenney Games",
+    "toolbar": false,
+    "show": true,
+	"icon": "ico.png",
+	"width": 800,
+	"height": 480,
+	"resizable" : false
+  },
+  "dependencies": {
+    "marked": "^0.3.3"
+  }
+}
